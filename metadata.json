@@ -1,0 +1,5 @@
+{
+  "name": "DSA Revision Queue",
+  "description": "A smart revision tracker for DSA problems using spaced repetition. Add failed problems, revisit them after 5 days, and manage your learning queue with persistent local storage.",
+  "requestFramePermissions": []
+}
